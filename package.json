@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@types/fs-extra": "^8.0.1",
-    "@types/node": "^12.12.17",
+    "@types/node": "^13.1.1",
     "@types/node-vagrant": "^1.4.0",
     "ansi-colors": "^4.1.1",
     "commander": "^3.0.1",
