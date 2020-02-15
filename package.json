@@ -29,7 +29,7 @@
     "jest": "^24.8.0",
     "nodemon": "^1.19.4",
     "ts-jest": "^24.3.0",
-    "typescript": "^3.7.3"
+    "typescript": "^3.7.5"
   },
   "dependencies": {
     "@types/fs-extra": "^8.0.1",
